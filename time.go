@@ -1,4 +1,4 @@
-package main
+package objects
 
 import (
 	"database/sql/driver"

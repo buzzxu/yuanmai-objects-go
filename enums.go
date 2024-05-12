@@ -1,4 +1,4 @@
-package main
+package objects
 
 // OAuthType represents the type of OAuth provider.
 type OAuthType int32

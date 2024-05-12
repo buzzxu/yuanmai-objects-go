@@ -1,4 +1,4 @@
-package main
+package objects
 
 type (
 	R[T any] struct {
