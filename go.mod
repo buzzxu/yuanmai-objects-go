@@ -1,3 +1,3 @@
-module yuanmai-objects-go
+module objects
 
 go 1.22
